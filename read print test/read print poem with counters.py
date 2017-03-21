@@ -1,4 +1,4 @@
-name_of_mydocument = 'poe'
+name_of_mydocument = 'tuesdayafternoon.txt'
 file_input = open(name_of_mydocument, 'r')     
 
 line = file_input.readline()
